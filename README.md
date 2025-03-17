@@ -7,10 +7,12 @@ This repository provides the training data, testing data, and data processing sc
 ```
 LLM4Netlist/
 │── data/
+│   ├── example
 │   ├── train/
 │   ├── test/
 │   ├── processed/
 │── script/
+│   ├── example
 │   ├── preprocess.py
 │   ├── train.py
 │   ├── evaluate.py
