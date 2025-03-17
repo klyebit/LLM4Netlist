@@ -10,7 +10,7 @@ LLM4Netlist/
 │   ├── train/
 │   ├── test/
 │   ├── processed/
-│── scripts/
+│── script/
 │   ├── preprocess.py
 │   ├── train.py
 │   ├── evaluate.py
@@ -30,23 +30,23 @@ After preprocessing, the processed data of LLMs is stored in `data/processed/`.
 ## 🔧 Data Processing
 To preprocess the dataset, run the following script:
 ```bash
-python scripts/preprocess.py 
+python script/preprocess.py 
 ```
 Similarly, for the test set:
 ```bash
-python scripts/preprocess.py
+python script/preprocess.py
 ```
 
 ## 🚀 Training
 To train the LLM4Netlist model, execute:
 ```bash
-python scripts/train.py 
+python script/train.py 
 ```
 
 ## 📈 Evaluation
 To evaluate the trained model on the test set, run:
 ```bash
-python scripts/evaluate.py 
+python script/evaluate.py 
 ```
 
 ## 📬 Contact
