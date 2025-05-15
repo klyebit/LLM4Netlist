@@ -21,10 +21,10 @@ LLM4Netlist/
 
 ## 📊 Dataset
 ### Training Data
-The training dataset consists of natural language descriptions and their corresponding netlist code. It is stored in the `data/train/` directory.
+The training dataset consists of natural language descriptions and their corresponding netlist code. It is stored in the `data/training/` directory.
 
 ### Testing Data
-The testing dataset follows the training data format and is in the `data/test/` directory.
+The testing dataset follows the training data format and is in the `data/testing/` directory.
 
 ### Processed Data
 After preprocessing, the processed data of LLMs is stored in `data/processed/`.
