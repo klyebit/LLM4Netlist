@@ -14,8 +14,8 @@ LLM4Netlist/
 │── script/
 │   ├── example
 │   ├── preprocess.py
-│   ├── train.py
-│   ├── evaluate.py
+<!-- │   ├── train.py
+│   ├── evaluate.py -->
 │── README.md
 ```
 
@@ -40,16 +40,16 @@ python script/preprocess.py
 ``` -->
 
 ## 🚀 Training
-To train the LLM4Netlist model, execute:
-```bash
+<!-- To train the LLM4Netlist model, execute: -->
+<!-- ```bash
 python script/train.py 
-```
+``` -->
 
 ## 📈 Evaluation
-To evaluate the trained model on the test set, run:
+<!-- To evaluate the trained model on the test set, run:
 ```bash
 python script/evaluate.py 
-```
+``` -->
 
 ## 📬 Contact
 For any questions or issues, please open an issue or reach out to me.
