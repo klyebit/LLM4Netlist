@@ -29,7 +29,7 @@ The testing dataset follows the training data format and is in the `data/testing
 ### Processed Data
 After preprocessing, the processed data of LLMs is stored in `data/processed/`.
 
-## 🔧 Data Processing
+<!-- ## 🔧 Data Processing
 To preprocess the dataset, run the following script:
 ```bash
 python script/preprocess.py 
@@ -37,7 +37,7 @@ python script/preprocess.py
 Similarly, for the test set:
 ```bash
 python script/preprocess.py
-```
+``` -->
 
 ## 🚀 Training
 To train the LLM4Netlist model, execute:
