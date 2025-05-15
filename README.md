@@ -14,8 +14,6 @@ LLM4Netlist/
 │── script/
 │   ├── example
 │   ├── preprocess.py
-<!-- │   ├── train.py
-│   ├── evaluate.py -->
 │── README.md
 ```
 
