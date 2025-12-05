@@ -39,7 +39,7 @@ python script/preprocess.py
 
 ## 🚀 Training
 <!-- To train the LLM4Netlist model, execute: -->
-# Model Training: Supported Fine-Tuning Tools & Frameworks
+### Model Training: Supported Fine-Tuning Tools & Frameworks
 Our model training workflow supports fine-tuning with leading open-source tools and frameworks, enabling flexible and efficient model adaptation.
 
 ## Supported Tools & GitHub Links
