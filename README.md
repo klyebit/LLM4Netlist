@@ -50,12 +50,21 @@ Our model training workflow supports fine-tuning with leading open-source tools 
 ## 📈 Evaluation
 <!-- To evaluate the trained model on the test set, run:
 ```bash
-python script/evaluate.py 
 ``` -->
 
 ## 📬 Contact
 For any questions or issues, please open an issue or reach out to me.
 
+## Citation
+```text
+@article{ye2025llm4netlist,
+  title={LLM4Netlist: LLM-enabled Step-based Netlist Generation from Natural Language Description},
+  author={Ye, Kailiang and Yang, Qingyu and Lu, Zheng and Yu, Heng and Cui, Tianxiang and Bai, Ruibin and Shen, Linlin},
+  journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems},
+  year={2025},
+  publisher={IEEE}
+}
+```
 
 ## References
 ```text
